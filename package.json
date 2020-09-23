@@ -49,10 +49,10 @@
     "ghost-theme"
   ],
   "license": "MIT",
-  "name": "liebling",
+  "name": "liebling-custom-ghost",
   "screenshots": {
     "desktop": "assets/screenshot-desktop.jpg",
     "mobile": "assets/screenshot-mobile.jpg"
   },
-  "version": "0.7.5"
+  "version": "0.0.1"
 }
